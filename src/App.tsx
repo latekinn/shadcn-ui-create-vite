@@ -1,7 +1,8 @@
-import { ComponentExample } from "@/components/component-example";
+// import { ComponentExample } from "@/components/component-example";
+import GithubBlock from './components/github'
 
 export function App() {
-return <ComponentExample />;
+return <GithubBlock />;
 }
 
 export default App;
